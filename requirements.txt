@@ -1,0 +1,9 @@
+# Tested with Python 3.11
+
+tensorflow==2.18.0
+keras==3.8.0
+numpy==2.0.2
+pandas==2.2.3
+matplotlib==3.10.0
+scikit-learn==1.6.1
+Pillow==11.1.0

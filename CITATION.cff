@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+
+title: carbonate-thin-section-classification
+
+message: “If you use this repository, please cite the associated Earth Science Informatics article.”
+
+type: software
+
+authors:
+
+* family-names: Choi
+    given-names: SoonYoung
+
+repository-code: https://github.com//carbonate-thin-section-classification
+
+license: MIT
