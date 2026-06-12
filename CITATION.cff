@@ -8,9 +8,9 @@ type: software
 
 authors:
 
-* family-names: Choi
+- family-names: Choi
     given-names: SoonYoung
 
-repository-code: https://github.com//carbonate-thin-section-classification
+repository-code: https://github.com/neobassist/carbonate-thin-section-classification
 
 license: MIT
